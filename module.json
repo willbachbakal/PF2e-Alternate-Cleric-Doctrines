@@ -1,10 +1,10 @@
 {
-  "id": "",
-  "title": "",
+  "id": "alternate-cleric-doctrines",
+  "title": "Alternate Cleric Doctrines",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
-    "minimum": "14",
+    "minimum": "13",
     "verified": "14",
     "maximum": "14"
   },
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "An alternate implementation of the Cleric's doctrines that allows for more flexibility in class progression in Pathfinder Second Edition.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "alternate-cleric-doctrines",
+      "label": "Alternate Cleric Doctrines",
+      "path": "packs/alternate-cleric-doctrines",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/HL8xipjhWKx6"
 }
